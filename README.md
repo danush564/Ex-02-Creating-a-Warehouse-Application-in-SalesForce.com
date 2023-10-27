@@ -46,7 +46,9 @@ After Next, define the fields for the custom app.
 
 ![ex2-5](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/e82870fd-7400-4bf6-9dfe-622df1825574)
 
-#### Step 6: Choose the Image Source for the Custom App Logo.
+#### Step 6:
+Choose the Image Source for the Custom App Logo.
+
 Note: Before inserting an image for the logo you need to use the following procedure to add an image to the image gallery.
  
 #### Step 7:
